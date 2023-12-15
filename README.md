@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @acymoy, but you can call me Andrew. I'm currently a CSMS student at Northeastern University.
+- 👋 Hi, I’m @acymoy, but you can call me Andrew. I'm currently a software engineer at a bank!
 - 👀 I’m interested in software engineering, natural language processing, and anything else!
-- 🌱 I’m currently learning object oriented design and algorithms.
 - 📫 Feel free to dm me if you have any questions or want to chat about anything! :)
 
 <!---
